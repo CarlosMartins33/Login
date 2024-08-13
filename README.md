@@ -1,6 +1,6 @@
-<p align="center">
+<h2 align="center">
  Tela de Login Simples
-</p>
+</h2>
 
 <br>
 
