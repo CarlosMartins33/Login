@@ -2,7 +2,6 @@
  Tela de Login Simples
 </h2>
 
-<br>
 
 ## Tecnologias
 
